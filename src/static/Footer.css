@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    gap: 20px;
+    justify-content: last baseline;
+    align-items: last baseline;
+    min-height: 25%;
+
+    img{
+        /* width: 70px; */
+        height: 25px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    
+    
+}
+

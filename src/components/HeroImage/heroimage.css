@@ -1,0 +1,15 @@
+#mobileImage{
+    display: none;
+}
+
+@media screen and (max-width:800px) {
+    #desktopImage{
+        display: none;
+    }
+    #mobileImage{
+        display: block;
+        height: 300px;
+        width: 350px;
+    }
+    
+}
